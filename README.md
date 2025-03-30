@@ -15,7 +15,7 @@ Os controladores foram projetados e analisados de três maneiras distintas, util
 ```
 Projeto-Controladores/
 │── README.md  # Documentação do projeto
-│── Trabalho_Controle_Grupo_VIII.ipy  # Código principal com implementação dos controladores
+│── Trabalho_Controle_Grupo_VIII.ipy  # Código com implementação dos controladores
 │── TrabalhoEEE339-2024-2 (1).pdf  # Orientações do projeto
 ```
 
